@@ -8,3 +8,8 @@
 2014-09-18 6:32:39 - PHP Notice:  Error: Could not load language vietnamese! in C:\xampp\htdocs\pavo\system\library\language.php on line 39
 2014-09-18 6:32:41 - PHP Notice:  Error: Could not load language vietnamese! in C:\xampp\htdocs\pavo\system\library\language.php on line 39
 2014-09-18 6:32:45 - PHP Notice:  Error: Could not load language vietnamese! in C:\xampp\htdocs\pavo\system\library\language.php on line 39
+2014-09-18 6:39:28 - PHP Notice:  Undefined variable: category_id in C:\xampp\htdocs\pavo\catalog\controller\pavblog\blogs.php on line 285
+2014-09-18 6:46:25 - PHP Notice:  Undefined index: position in C:\xampp\htdocs\pavo\admin\controller\module\pavblog.php on line 521
+2014-09-18 6:46:25 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pavo\admin\model\pavblog\blog.php on line 204
+2014-09-18 6:46:32 - PHP Notice:  Undefined variable: category_id in C:\xampp\htdocs\pavo\catalog\controller\pavblog\blogs.php on line 285
+2014-09-18 6:46:37 - PHP Notice:  Undefined variable: category_id in C:\xampp\htdocs\pavo\catalog\controller\pavblog\blogs.php on line 285
